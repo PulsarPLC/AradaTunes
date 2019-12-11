@@ -52,7 +52,13 @@ dependencies {
     compile 'com.squareup.okhttp:okhttp:2.3.0'
     compile 'com.google.code.gson:gson:2.3'
 
-    compile 'com.afollestad.material-dialogs:core:0.9.6.0'
-    compile 'com.github.naman14:app-theme-engine:0.5.2'
-    compile 'com.afollestad.material-dialogs:commons:0.9.4.7'
+    compile('com.github.afollestad.material-dialogs:core:0.8.5.3@aar') {
+        transitive = true
+    }
+    compile('com.github.naman14:app-theme-engine:0.5.1@aar') {
+        transitive = true
+    }
+    compile('com.github.afollestad.material-dialogs:commons:0.8.5.3@aar') {
+        transitive = true
+    }
 }
