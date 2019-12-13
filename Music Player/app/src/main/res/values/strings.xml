@@ -35,8 +35,8 @@
     <string name="playlist_recently_played">Recently Played</string>
     <string name="playlist_top_tracks">My Top Tracks</string>
 
-    <string name="timber_source">Report any bugs <u> here </u> </string>
-    <string name="timber_feature_request">Specify any feature request in the Google+ community <u> here </u></string>
+    <string name="timber_source">Pulsar PLC <u> web </u> </string>
+    <string name="timber_feature_request">Arada Tunes <u> web </u></string>
 
     <string name="menu_show_as">View As</string>
     <string name="menu_show_as_entry_list">List</string>
@@ -77,7 +77,7 @@
     <string name="personalisation">Personalisation</string>
     <string name="other">Other</string>
     <string name="advanced">Advanced</string>
-    <string name="timber_about_opensource">SoungsPro is a open source Music Player developed by Spandan Joshi.</string>
+    <string name="timber_about_opensource">Arada Tunes is an online Music Player developed by Pulsar PLC (Developer Lishan Eticha)</string>
     <string name="summary_pause_detach">Toggle for pausing playback when headphone is detached</string>
     <string name="pause_detach">Pause on Detach</string>
     <string name="summary_xposed_trackselector">Requires Xposed and XMediaNotificationTrackSelector Xposed module to be installed. This will provide access to playing queue from the notification bar itself.</string>
