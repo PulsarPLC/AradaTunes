@@ -9,7 +9,7 @@
 
     </style>
 
-    <style name="AppThemeLight" parent="ThemeBaseLight">
+    <style name="AppThemeDark" parent="ThemeBaseLight">
 
 
         <item name="colorPrimary">@color/colorPrimary</item>
@@ -27,7 +27,7 @@
 
     </style>
 
-    <style name="AppThemeDark" parent="ThemeBaseDark">
+    <style name="AppThemeLight" parent="ThemeBaseDark">
 
 
         <item name="colorPrimary">@color/colorPrimaryDarkTheme</item>

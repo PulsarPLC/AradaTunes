@@ -10,7 +10,7 @@
     <attr format="reference" name="stateSelector" />
 
 
-    <style name="ThemeBaseLight" parent="Theme.AppCompat.Light.NoActionBar">
+    <style name="ThemeBaseDark" parent="Theme.AppCompat.Light.NoActionBar">
         <item name="colorPrimary">@color/colorPrimary</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDark</item>
         <item name="colorAccent">@color/colorAccent</item>
@@ -26,7 +26,7 @@
         <item name="ate_key">light_theme</item>
 
     </style>
-    <style name="ThemeBaseDark" parent="Theme.AppCompat.NoActionBar">
+    <style name="ThemeBaseLight" parent="Theme.AppCompat.NoActionBar">
         <item name="colorPrimary">@color/colorPrimaryDarkTheme</item>
         <item name="colorPrimaryDark">@color/colorPrimaryDarkDarkTheme</item>
         <item name="colorAccent">@color/colorAccentDarkTheme</item>
@@ -79,6 +79,7 @@
     <style name="AppTheme.FullScreen.Dark" parent="ThemeBaseDark">
 
     </style>
+
     <style name="AppThemeBlack" parent="ThemeBaseBlack">
 
 
@@ -122,11 +123,11 @@
         <item name="rippleColor">@android:color/white</item>
     </style>
 
-    <style name="CardViewStyle.Light" parent="CardView">
+    <style name="CardViewStyle.Dark" parent="CardView">
         <item name="cardBackgroundColor">@color/window_background</item>
     </style>
 
-    <style name="CardViewStyle.Dark" parent="CardView">
+    <style name="CardViewStyle.Light" parent="CardView">
         <item name="cardBackgroundColor">@color/window_background_dark</item>
     </style>
 
